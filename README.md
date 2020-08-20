@@ -27,7 +27,6 @@
 [kitsu]: https://kitsu.io/users/
 [anilist]: https://anilist.co/user/
 [trakt]: https://trakt.tv/users/
-[facebook]: 
 [telegram]: https://t.me/
 [reddit]: https://reddit.com/u/
 [discord]: https://discord.com/users/
