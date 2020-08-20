@@ -18,6 +18,7 @@
 [<img align="left" alt="ahmubashshir | Trakt.tv" width="22px" src="https://simpleicons.org/icons/trakt.svg" />][trakt]
 <br />
 
+![Tanzil's github stats](https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=radical)
 ### Statistics:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=compact)
@@ -31,3 +32,5 @@
 [telegram]: https://t.me/ahmubashshir
 [reddit]: https://reddit.com/u/ahmubashshir
 [discord]: https://discord.com/users/ahmubashshir#3527
+
+
