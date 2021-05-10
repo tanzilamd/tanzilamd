@@ -1,8 +1,3 @@
-<style>
-span{
-    display:inline;
-}
-</style>
 ## Hi, I'm Tanzil! :wave:
 
 
