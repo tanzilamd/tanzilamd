@@ -8,8 +8,11 @@
 - :information_source: Ask me about
 
 #### Connect with me:
-[<img align="left" alt="tanzil.web | Facebook" width="22px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-[<img align="left" alt="tanzilamd | Telegram" width="22px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
+[<img align="left" alt="tanzil.web | Facebook" width="22px" style="padding:8px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[<img align="left" alt="tanzilamd | Telegram" width="22px" style="padding:8px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
+[<img align="left" alt="learnwithtanzil | youtube" width="22px" style="padding:8px" src="https://simpleicons.org/icons/youtube.svg">][youtube]
+[<img align="left" alt="tanzilamd | insta" width="22px" style="padding:8px" src="https://simpleicons.org/icons/instagram.svg">][instagram]
+
 
 <br />
 
@@ -18,8 +21,12 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=compact)
 
-[facebook]: https://facebook.com/mdtanzil858
+
+
+[facebook]: https://facebook.com/tanzil.web
 [telegram]: https://t.me/tanzilamd
+[youtube]: https://www.youtube.com/channel/UCBy4hBWyBHsRMP8cQT9NRqw
+[instagram]: https://www.instagram.com/tanzilamd/
 
 
 
