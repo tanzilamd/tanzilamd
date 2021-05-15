@@ -23,7 +23,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=480)](https://github.com/tanzilamd/github-readme-stats)
 
-[![Tanzil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanzilamd)](https://github.com/tanzilamd/github-readme-stats)
+[![Tanzil's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tanzilamd&card_width=480)](https://github.com/tanzilamd/github-readme-stats)
 
 
 
