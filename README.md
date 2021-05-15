@@ -17,7 +17,7 @@
 <br />
 <br/>
 
-### Statistics:
+### :zzz: Statistics:
 ![Tanzil's github status](https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox  )](https://github.com/tanzilamd/github-readme-stats)
