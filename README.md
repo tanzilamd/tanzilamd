@@ -3,8 +3,9 @@
 
 #### A programmer
 
-- :telescope: I’m currently a student ...
-- :seedling: I’m currently learning progrmming languages ...
+- :telescope: Student 
+- :seedling: Love progrmming  
+- :earth_africa: Learner
 - :information_source: Ask me about
 
 #### :zap: Connect with me:
