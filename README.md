@@ -26,6 +26,9 @@
     <a href="https://github.com/tanzilamd" target="_blank">
         <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/><br/>
     </a>
+    <a href="https://stackoverflow.com/users/15925901/tanzil-ahmed" target="_blank">
+        <img src="https://img.shields.io/badge/stackoverflow-grey?style=for-the-badge&logo=stackoverflow"/><br/>
+    </a>
 </div>
 
 <br />
