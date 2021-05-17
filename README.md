@@ -18,13 +18,13 @@
         <img src="https://img.shields.io/badge/Facebook-lightblue?style=for-the-badge&logo=facebook">
     </a>
     <a href="https://t.me/tanzilamd" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-skyblue?style=for-the-badge&logo=telegram">
+        <img src="https://img.shields.io/badge/Telegram-skyblue?style=for-the-badge&logo=telegram"><br/>
     </a>
     <a href="https://www.instagram.com/tanzilamd/" target="_blank">
         <img src="https://img.shields.io/badge/Instagram-lavender?style=for-the-badge&logo=instagram">
     </a>
     <a href="https://github.com/tanzilamd" target="_blank">
-        <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/>
+        <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/><br/>
     </a>
 </div>
 
