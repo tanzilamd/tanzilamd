@@ -21,7 +21,7 @@
         <img src="https://img.shields.io/badge/Telegram-skyblue?style=for-the-badge&logo=telegram"><br/>
     </a>
     <a href="https://www.instagram.com/tanzilamd/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-lavender?style=for-the-badge&logo=instagram">
+        <img src="https://img.shields.io/badge/Instagram-plum?style=for-the-badge&logo=instagram">
     </a>
     <a href="https://github.com/tanzilamd" target="_blank">
         <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/><br/>
