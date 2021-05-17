@@ -15,19 +15,19 @@
         <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube">
     </a>
     <a href="https://facebook.com/tanzil.web" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-lightblue?style=for-the-badge&logo=facebook">
+        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white">
     </a>
     <a href="https://t.me/tanzilamd" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-skyblue?style=for-the-badge&logo=telegram"><br/>
+        <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"><br/>
     </a>
     <a href="https://www.instagram.com/tanzilamd/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-plum?style=for-the-badge&logo=instagram">
+        <img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white">
     </a>
     <a href="https://github.com/tanzilamd" target="_blank">
         <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/><br/>
     </a>
     <a href="https://stackoverflow.com/users/15925901/tanzil-ahmed" target="_blank">
-        <img src="https://img.shields.io/badge/stackoverflow-grey?style=for-the-badge&logo=stackoverflow"/><br/>
+        <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/><br/>
     </a>
 </div>
 
