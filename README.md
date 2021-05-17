@@ -34,7 +34,7 @@
 ### :zzz: Github Stats:
 <div align="center">
 
-![Tanzil's github status](https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable)
+<img src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable">
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=490&hide_border=enable)
 
