@@ -9,16 +9,19 @@
 - :information_source: Ask me about
 
 #### :zap: Connect with me:
-[<img align="left" alt="tanzil.web | Facebook" width="22px" style="padding:8px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-[<img align="left" alt="tanzilamd | Telegram" width="22px" style="padding:8px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
-[<img align="left" alt="learnwithtanzil | youtube" width="22px" style="padding:8px" src="https://simpleicons.org/icons/youtube.svg">][youtube]
-[<img align="left" alt="tanzilamd | insta" width="22px" style="padding:8px" src="https://simpleicons.org/icons/instagram.svg">][instagram]
+<div align="center">
+
+[<img alt="tanzil.web | Facebook" width="22px" style="padding:8px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
+[<img alt="tanzilamd | Telegram" width="22px" style="padding:8px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
+[<img alt="learnwithtanzil | youtube" width="22px" style="padding:8px" src="https://simpleicons.org/icons/youtube.svg">][youtube]
+[<img alt="tanzilamd | insta" width="22px" style="padding:8px" src="https://simpleicons.org/icons/instagram.svg">][instagram]
+</div>
 
 
 <br />
 <br/>
 
-### :zzz: Statistics:
+### :zzz: Github Stats:
 <div align="center">
 
 ![Tanzil's github status](https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable)
