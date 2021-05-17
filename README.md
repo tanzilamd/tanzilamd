@@ -11,10 +11,10 @@
 #### :zap: Connect with me:
 <div align="center">
 
-[<img alt="tanzil.web | Facebook" width="22px" style="padding:8px" src="https://simpleicons.org/icons/facebook.svg" />][facebook]
-[<img alt="tanzilamd | Telegram" width="22px" style="padding:8px" src="https://simpleicons.org/icons/telegram.svg" />][telegram]
-[<img alt="learnwithtanzil | youtube" width="22px" style="padding:8px" src="https://simpleicons.org/icons/youtube.svg">][youtube]
-[<img alt="tanzilamd | insta" width="22px" style="padding:8px" src="https://simpleicons.org/icons/instagram.svg">][instagram]
+[<img alt="tanzil.web | Facebook" width="22px" style="padding:8px" src="https://img-premium.flaticon.com/png/512/733/733547.png?token=exp=1621246748~hmac=a2feb9ef728b203375e98b0400057853" />][facebook]
+[<img alt="tanzilamd | Telegram" width="22px" style="padding:8px" src="https://img-premium.flaticon.com/png/512/906/906377.png?token=exp=1621246835~hmac=d661b00199989c36c213864c3c7f40ec" />][telegram]
+[<img alt="learnwithtanzil | youtube" width="22px" style="padding:8px" src="https://img-premium.flaticon.com/png/512/1384/1384060.png?token=exp=1621246896~hmac=db37f7249c53a2986ba26b94399c799b">][youtube]
+[<img alt="tanzilamd | insta" width="22px" style="padding:8px" src="https://img-premium.flaticon.com/png/512/2111/2111463.png?token=exp=1621246651~hmac=7d9715109cc665796baf8ba91d8a7744">][instagram]
 </div>
 
 
