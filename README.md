@@ -41,7 +41,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=497&hide_border=enable"><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanzilamd&theme=gruvbox&card_width=500&hide_border=enable"><br/>
+<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanzilamd&theme=gruvbox&card_width=500&hide_border=enable">--><br/>
 </div>
 
 
