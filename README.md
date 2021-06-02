@@ -35,6 +35,7 @@
 <br/>
 
 ### :zzz: Github Stats:
+<<<<<<< HEAD
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable">
@@ -42,6 +43,15 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=493&hide_border=enable">
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanzilamd&theme=gruvbox&card_width=400&hide_border=enable">
+=======
+
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable"><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=497&hide_border=enable"><br/>
+
+<!--<img src="https://github-readme-stats.vercel.app/api/wakatime?username=tanzilamd&theme=gruvbox&card_width=500&hide_border=enable">--><br/>
+>>>>>>> 5f8151f4197bf647664297051e340791f84f6bcf
 </div>
 
 
