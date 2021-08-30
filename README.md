@@ -8,6 +8,7 @@
 - :earth_africa: Learner
 - :information_source: Ask me about
 
+<img alt="snake" src="https://raw.githubusercontent.com/tanzilamd/tanzilamd/output/github-contribution-grid-snake.svg"  width="100%" />
 ### :zap: Connect with me:
 
 <div align="center">
