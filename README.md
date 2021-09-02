@@ -7,7 +7,7 @@
 
 
 
-<h2>A programmer </h2>
+<h3>A passionate web developer from Bangladesh </h3>
 
 <!-- snake animation -->
 <img alt="snake" src="https://raw.githubusercontent.com/tanzilamd/tanzilamd/output/github-contribution-grid-snake.svg"  width="100%" />
@@ -83,7 +83,7 @@
 
 <img width="50%" align="right" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable"> </br> <br>
 
-<img width="40%"  style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=493&hide_border=enable">
+<img style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=493&hide_border=enable">
 <br/>
 
 
