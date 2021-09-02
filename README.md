@@ -4,9 +4,17 @@
 #### A programmer
 
 - :telescope: Student 
+
 - :seedling: Love progrmming  
-- :earth_africa: Learner
-- :information_source: Ask me about
+
+
+- 🔭 I’m currently working on **PSD to html projects**
+
+- 🌱 I’m currently learning **Vue js**
+
+- 💬 Ask me about **anything**
+
+- 📫 How to reach me **tanzilahmed.mail@gmail.com**
 
 <img alt="snake" src="https://raw.githubusercontent.com/tanzilamd/tanzilamd/output/github-contribution-grid-snake.svg"  width="100%" />
 
