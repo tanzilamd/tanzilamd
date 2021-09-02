@@ -2,10 +2,12 @@
 <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
 </div>
 
-## Hi, I'm Tanzil! :wave:
+<h1> Hello < Developers/ >! I'm Tanzil Ahmed <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
+<p align='center'>
 
 
-#### A programmer
+
+<h2>A programmer </h2>
 
 <!-- snake animation -->
 <img alt="snake" src="https://raw.githubusercontent.com/tanzilamd/tanzilamd/output/github-contribution-grid-snake.svg"  width="100%" />
@@ -70,25 +72,28 @@
 
 <div width="100%" align="center">
 
-<img width="45%" align="left" src="https://metrics.lecoq.io/tanzilamd?template=classic&config.timezone=America%2FToronto">
+<img width="50%" align="left" src="https://metrics.lecoq.io/tanzilamd?template=classic&config.timezone=America%2FToronto">
 
 <br/>
 
 <!-- card_width=493& -->
-<img width="45%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&hide_border=enable">
+<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&hide_border=enable">
 
 <br/>
 
-<img width="45%" align="right" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable"> </br> <br>
+<img width="50%" align="right" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable"> </br> <br>
 
-<img align="left" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=493&hide_border=enable">
+<img  style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=493&hide_border=enable">
 <br/>
 
 
 </div>
 
+<br/>
+<!-- programming humor -->
+<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
 
-
+![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 
 [facebook]: https://facebook.com/tanzil.web
