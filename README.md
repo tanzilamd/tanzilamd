@@ -96,6 +96,10 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
 
 
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzilamd&theme=onedark&margin-w=15&margin-h=15" alt="tanzilamd" /></a> </p>
+
+
 [facebook]: https://facebook.com/tanzil.web
 [telegram]: https://t.me/tanzilamd
 [youtube]: https://www.youtube.com/channel/UCBy4hBWyBHsRMP8cQT9NRqw
