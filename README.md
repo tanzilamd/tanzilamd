@@ -72,7 +72,7 @@
 
 <div width="100%" align="center">
 
-<img width="50%" align="left" src="https://metrics.lecoq.io/tanzilamd?template=classic&config.timezone=America%2FToronto">
+<img width="45%" align="left" src="https://metrics.lecoq.io/tanzilamd?template=classic&config.timezone=America%2FToronto">
 
 <br/>
 
