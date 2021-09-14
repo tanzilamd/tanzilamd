@@ -77,10 +77,10 @@
 
 <img width="45%" align="left" src="https://metrics.lecoq.io/tanzilamd?template=classic&config.timezone=America%2FToronto">
 
-<br/>
+
 
 <!-- card_width=493& -->
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&hide_border=enable">
+<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&hide_border=enable">
 
 <br/>
 
