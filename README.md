@@ -85,22 +85,28 @@
 
 <div width="100%">
 
+<!-- card_width=493& -->
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&hide_border=enable">
+
+<br/>
+<br>
+<details>
+<summary><b>Stats Deails</b></summary>
 <img width="55%" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable"> </br>
 
 
 <img width="70%" src="https://metrics.lecoq.io/tanzilamd?template=classic&config.timezone=America%2FToronto">
 
 <br/>
-
-<!-- card_width=493& -->
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&hide_border=enable">
-
-<br/>
+</details>
 
  <br>
 
+<details>
+<summary><b>Most Used Languages</b></summary>
 <img width="55%" float="left" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=493&hide_border=enable">
 <br/>
+</details>
 
 
 </div>
