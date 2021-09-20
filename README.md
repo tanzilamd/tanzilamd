@@ -73,20 +73,23 @@
 
 ### :zzz: Github Stats:
 
-<div width="100%" align="center">
+<div width="100%">
 
-<img width="45%" align="left" src="https://metrics.lecoq.io/tanzilamd?template=classic&config.timezone=America%2FToronto">
+<img width="55%" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable"> </br>
 
 
-
-<!-- card_width=493& -->
-<img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&hide_border=enable">
+<img width="70%" src="https://metrics.lecoq.io/tanzilamd?template=classic&config.timezone=America%2FToronto">
 
 <br/>
 
-<img width="50%" align="right" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable"> </br> <br>
+<!-- card_width=493& -->
+<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&hide_border=enable">
 
-<img width="60%" float="left" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=493&hide_border=enable">
+<br/>
+
+ <br>
+
+<img width="55%" float="left" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=493&hide_border=enable">
 <br/>
 
 
