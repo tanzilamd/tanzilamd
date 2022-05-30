@@ -84,6 +84,9 @@
 
 <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'>
 
+### Profile Visitors 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tanzilamd.visitor-badge&left_color=blue&right_color=yellow)
+
 ### :zzz: Github Stats:
 
 <div width="100%">
