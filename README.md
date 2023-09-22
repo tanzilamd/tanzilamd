@@ -1,139 +1,41 @@
-<div align="center">
-<img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" />
-</div>
+<h1 align="center">Hi 👋, I'm Tanzil Ahmed</h1>
+<h3 align="center">A passionate frontend developer from BD</h3>
 
-<a style="display:block;margin-top:20px;" href="https://tanzilamd.github.io/"><h3>https://tanzilamd.github.io/</h3></a>
-
-<h1> Hello < Developers/ >! I'm Tanzil Ahmed <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px> </h1>
-<p align='center'>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=tanzilamd&label=Profile%20views&color=0e75b6&style=flat" alt="tanzilamd" /> </p>
 
 
+<p align="left"> <a href="https://www.facebook.com/tanzil.web" target="blank"><img src="https://img.shields.io/badge/FACEBOOK-VISIT-97ca00.svg?colorA=555555&style=for-the-badge&logoWidth=14&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAUUAAAFFCAMAAABMqg9vAAAAt1BMVEUAAAAYd/IYd/Kcxfmy0vsYd/IYd/IYd/IYd/IYd/IYd/IYd/IYd/IYd/IYd/Le7P0Yd/IYd/IYd/L6/P////+Ft/jM4fzw9v682PuqzfqTwPnx9/7///+Ywvmlyvr////b6v3j7v231ftzrPf5+//////////////////F3fz////n8f7b6v3////A2vtjo/bU5v3X6P2my/rl8P600/v6/P8mgPP///9DkfQYd/I1iPRgovZSmfV6kEKTAAAANnRSTlMA8GDgwKBAwFAQ4CAwsNDgkIBw9sDu4vDi5PDugOjr8OTt6Pb3ULBAMOug6Exg3PXr6NDr7fWka8g1AAAI90lEQVR4XuzYQY7dIAzHYdsjMARCSRaVuu4dRvqr7/7n6qibJ3VVdTIvBvwd4SfLRpA1NabjCKrK+BurajiOFCsZYFKOcuyKf6X7ITE/A7gqXRn/g7VL9YBFuuKzWpdCq6rnzrgK72ddcAafBa8sWWgZqW/4KluPNL+cAuNrcUiZZpZ2vMaepk0YGK/DYcKQ5djwattRaCaiuIfKPGPIuA9PMZAx4G4h0tiSwgJNNC7ZYMUm3tBAR2/47LhaQ+8YG6xqkcZQFZZpJftygHUhk3Enwz4+J1+Ivh5zxzh6JpMSYyScyJ68YzR79kG8AKfZBtHHMTJGxZGM6BhZJwtqw9hapdsJY3QsdLOAGQS6U2mYQytD32a/1YKZyKgr0ZdjVsxG84B3xW9MZcyI62DH2U+1YF4yUETPeOLTPGPA7IJHvEIwEtEzekQgGI/oGU+s4/R34hXEbETPGLGaaPIXx394CmM9XOhSuWFFLdOVFGtSY69tf30L1iX+xrlCtHOe/VA3rK1NflneH4+fbx++f/vw4+2PX4/H493chZHf7N3bbusoFAbghbPjU+zEbpSkbdSq+3Az2tKcxxTH7/9co7kdN1UCGBbw/4/wCQwLc2DpN15Wx5/yk5z+Yz1Mk6cRhn/h93447uXt2b2tXqZ3v6Ugt5rl8riXWjm/vXj7NHbsCA2i9NPFMlMcns/SLJ5mjZVgYzh+20vpUVFUpJuWj6G0EGWSljRTsunL/0jviqoMuz//dpKSgaKoAu7Pwy9SslBUbbj9efohuSiqMtT+/CylR0XzPt3x6M2cFFUX4nx7+Cp5Kao8vPr5/SS5KW6D29f0vpeW43oPVCU4IDJUFFVQ69vDX9J6HK97NxwGFp6KqgloJ8TfkqtiEc4s51kuEbf/p2vfiJNkrLgN5K/fcOKsqLIwmuKrZK1YB9EUJ8lbUWUhNMUTd8U6gKb4LLkrqox9Uxz2/BVr9k3xVfJXVBnzpjjKEBRr5j9bXoNQVCXrCnrYh6FYsK6gDzIMRZVzXlc8eVc0X2fccClb+CuqDV1L71vxMRzFnq5F+Fbch6Mo2BZ/FxmOosq4/ih4DEmxYDq2qH1IimrDc2yZZFCKPc+FxZewFGue+xXfLGn93H2YP5TllCz3Q5j7va0uk98T6CL0wuXXy6CcRnDs0AcTwv2zBqH9Lt2qkMu/Vz1D2/vlK+U9O23D06T8hOGJAm3Er4PylJLdCD3qIv4+sLknRnhXnNi3xHkEuyMF3/UQfwzKY3Jup1tWeooTowfcav+KT1qI35TX1LNFsRAnOnt//Xm+PPYQquIrp2vI2lAVR9+K7WyeE95C91H5jpidbwmvdPmuvKeZfRaDUxw53Y7eBqp4Vkrx+TCKQBUfGSiK2WwxNMWXGYDHGWMWquLE6eLaDooWSultqIoDpyu9VaiKikVszLmh2FgYXKCYWRhcoNhZ2LYIxcJC5QJFYeF/PhRVZeH3HxRzC0M0FDMLG5Gh2FtYXIRiS0QFFC1U0gqKprGjCMUGisZpKIeicXIqoWicknooGqe3ogjFNRSNs6YCisYp2ChCEYoCisYRpKBoHijqBopQhCIUoQhFKEJx/HJrNBS/3JE/Q1acJJdA0UJ2ULSQRyhayAqKFnKBooVMUOQxREPxvKyiYK/If6IjqEhD8WlJxSIVxQMUuQ/RBa3TUByX3RvRp6GolkyfiOJuYcUyCcXjwvsX8yQUVwvvpW2SULwsfc48CcVpUUVKRFEtrVgkoHhe/OxVm4DibvFzgH0Cik+Ln0nNElA8LH4+Ok9AcVr8rH6VgOK4+L0RJOJXdHADYxG94s7BfTpd9IpHB3c7ZdErrhzcM9ZEr3hxcdd09IqTi2ebitgVndwF2kWueHZyL20WueLOyR3Jm8gVn9y88CLiVjy4eVSjjVtxcvOOwUPciqObNzWauBUdve9CImbFnat3FduYFY+u3r3KYlZcuXqDbROz4sXVe4BUR6w4uXqbkrqIFdWC6dy82Tuubo2Gz+qWvLh7s5cETpmbvx9NayhaeMu8hKKFd/UrKGqE/p8WijqFi3GXhmJJswgo6ozQhqM0FNc0TwlF3Sm3fi0NxZo+Sg/Fu9LTR9lAUWNRbJYCinekoI+TQVFjldtgyghFQdfSQ1FjbNEfX6C4oatZQ1GvbtH6cQDFnD5JAUWNaY5eMQ3Fkj5NDUWNElpn5g3FjMi0MUKxJjJujFDMiEwbIxRrIuPGCMWMbkgNReOmSJRB0bwpEm2h+Em2dFtyKN5aQetV01As6NY0ULyahm7OGopXsqbbUwkofhhR0R15gOLnp/70ZztQ3NJ9yaFoMsu5fgIGih3dm0pAUXtouf4LBoolaaSF4nwvvFmfhqKoSCslFGf92ahPQ7El3VQCitr9eT73hmJOBumgqDffntfTUNySWRoBRSUaMkwGRZWRcdbJK67JQraJK27JRjYiaUWxISvJk1bMyVKyhBX/LZeOdeOGgSAMzy6wS1GkCN7hSgFXnW0Ydh3k/V8s6dSkCBKRInf/csoPwzgtcasoOLHgVDHgzGJxqVgiTi2RQ0VKOLlM7hQp4/TUnaKiQexMkdEkdqXIaBQ7UmQ0S9woChomThQFTRMXioLGiQNFQfPEvKKgQ2xckdElNq3I6BQbVmR0S8moIik6lsmkImV0LRWDiiWhczGYUwwR/RNjioJLYlOKjItSMqNIistKxYhiSbgyMaEouDim6RWJcXm5TK5YMkaoTq1YMUhK0yqSYpjiNqniFjFSC02oSAsGK27TKW4R47XQVIq0YMhinUixRoyalkkUi2Lk7jSBIt0xeFGGV5SI8cthaMWQMUdahlUsinnidUjFlTFXvLZXtGx4OLZWtG14OLZVtG14tIQhFMOCuVO5XFEU85du64WKdEswEoeLFAPjyMQhuyuutwRzqVBHRRKF0RahLookC0y3CDVTPAgdpHVtprhWhZsSb3S6Im2c4K183+g0RdruGV5LXMN/K4bKCe7LXAP9kyKFyhlH7otf3/vb4/mXfs/H2/79FdEgE328v/b98/H4A+jz9/q576/3DwzWL1KSQWzTn4KWAAAAAElFTkSuQmCC" alt="tanzilamd" /></a> </p>
 
-<h3>A passionate web developer from Bangladesh </h3>
+<h3 align="left">About me:</h3>
 
-<!-- snake animation -->
-<img alt="snake" src="https://raw.githubusercontent.com/tanzilamd/tanzilamd/output/github-contribution-grid-snake.svg"  width="100%" />
+- 🔭 I’m currently **a Student**
 
-<!-- about me -->
-<img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px>
+- 🌱 I’m learning **React**
 
-### :thought_balloon: About Me:
+- 👯 I’m looking to collaborate on **Open Source**
 
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+- 👨‍💻 All of my projects are available at [Github Repository](https://github.com/tanzilamd?tab=repositories)
 
-- :telescope: Student 
-
-- :collision: Love progrmming  
-
-
-- 🔭 I’m currently working on **PSD to html projects**
-
-- 🌱 I’m currently learning **Vue js**
-
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Javascript, Python, React**
 
 - 📫 How to reach me **tanzilahmed.mail@gmail.com**
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/tanzilamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="tanzilamd" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/tanzilamd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tanzilamd" height="30" width="40" /></a>
+<a href="https://fb.com/tanzil.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tanzil.web" height="30" width="40" /></a>
+<a href="https://instagram.com/tanzil.web" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tanzil.web" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/learn with tanzil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learn with tanzil" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-<!-- my skills -->
-<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tanzilamd&show_icons=true&locale=en&layout=compact" alt="tanzilamd" /></p>
 
-### :cyclone: My Skills: 
-<p align="left"> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="55" height="55"/> </a> 
-    <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="55" height="55"/> </a> 
-    <a href="https://www.figma.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="55" height="55"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="55" height="55"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/> </a> 
-    <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="55" height="55"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="55" height="55"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="55" height="55"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="55" height="55"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="55" height="55"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="55" height="55"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="55" height="55"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="55" height="55"/> </a>
-<a href="https://lesscss.org/" target="_blank"> <img src="https://lesscss.org/public/img/less_logo.png" alt="laravel" height="55" /> </a>
-<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="55" height="55"/> </a> <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="55" height="55"/> </a>
-</p> <br>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&locale=en" alt="tanzilamd" /></p>
 
-<!-- connect with me -->
-<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&" alt="tanzilamd" /></p>
 
-### :zap: Connect with me:
-
-<div align="center">
-    <a href="https://www.youtube.com/channel/UCBy4hBWyBHsRMP8cQT9NRqw" target="_blank">
-        <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube">
-    </a>
-    <a href="https://facebook.com/tanzil.web" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white">
-    </a>
-    <a href="https://t.me/tanzilamd" target="_blank">
-        <img src="https://img.shields.io/badge/Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white"><br/>
-    </a>
-    <a href="https://www.instagram.com/tanzilamd/" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-cd486b?style=for-the-badge&logo=instagram&logoColor=white">
-    </a>
-    <a href="https://github.com/tanzilamd" target="_blank">
-        <img src="https://img.shields.io/badge/github-black?style=for-the-badge&logo=github"/><br/>
-    </a>
-    <a href="https://stackoverflow.com/users/15925901/tanzil-ahmed" target="_blank">
-        <img src="https://img.shields.io/badge/stackoverflow-orange?style=for-the-badge&logo=stackoverflow&logoColor=white"/><br/>
-    </a>
-</div>
-
-<br />
-<br/>
-
-<img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32px'>
-
-### Profile Visitors 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=tanzilamd.visitor-badge&left_color=blue&right_color=yellow)
-
-### :zzz: Github Stats:
-
-<div width="100%">
-
-<!-- card_width=493& -->
-<img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&hide_border=enable">
-
-<br/>
-<br>
-<details>
-<summary><b>Stats Deails</b></summary>
-<img width="55%" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api?username=tanzilamd&show_icons=true&theme=merko&card_width=450&hide_border=enable"> </br>
-
-
-<img width="70%" src="https://metrics.lecoq.io/tanzilamd?template=classic&config.timezone=America%2FToronto">
-
-<br/>
-</details>
-
- <br>
-
-<details>
-<summary><b>Most Used Languages</b></summary>
-<img width="55%" float="left" style="margin-top:10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanzilamd&layout=demo&theme=gruvbox&langs_count=15&card_width=493&hide_border=enable">
-<br/>
-</details>
-
-
-</div>
-
-<br/>
-<!-- programming humor -->
-<h2> Some Programming Humor for you <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width = '32px'></h2>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=dark)
-
-
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzilamd&theme=onedark&margin-w=15&margin-h=15" alt="tanzilamd" /></a> </p>
-
-
-[facebook]: https://facebook.com/tanzil.web
-[telegram]: https://t.me/tanzilamd
-[youtube]: https://www.youtube.com/channel/UCBy4hBWyBHsRMP8cQT9NRqw
-[instagram]: https://www.instagram.com/tanzilamd/
-
-
-
-
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tanzilamd" alt="tanzilamd" /></a> </p>
